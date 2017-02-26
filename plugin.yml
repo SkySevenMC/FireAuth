@@ -1,0 +1,12 @@
+name: FireAuth
+main: fireauth\Main
+version: 1.0.0
+api: [3.0.0-ALPHA1,3.0.0-ALPHA2,3.0.0-ALPHA3]
+author: SkySeven
+
+commands:
+  login:
+    description: Login Command. 
+  register:
+    description: Register command.    
+ 
