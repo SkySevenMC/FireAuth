@@ -1,0 +1,2 @@
+# FireAuth
+PocketMine Auth plugin
