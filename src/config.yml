@@ -1,0 +1,14 @@
+---
+Join.message: "# §Welcome to §cFire§eWork !"
+Login.message: "# §use /login (§password§7)."
+Register.message: "# §use /register (§password§7)."
+Register.success.message: "# §aYou have been logged in !"
+Login.success.message: "# §aYou have been logged in!"
+Already.registred.message: "§cYou are already registred !"
+Already.logged-in.message: "§cYou are already logged in !"
+Ip.login.message: "# §aVous etes connecté ,bon jeux !"
+User.not.registered.message: "You are not registred !"
+Incorrect.password.message: "§cWrong password !"
+Login.command.message: "§ecommand : /login (password)"
+Register.command.message: "§ecommand : /register (password)"
+...
