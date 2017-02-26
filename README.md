@@ -1,3 +1,3 @@
 # FireAuth
-# PocketMine Auth plugin
-# Twitter : @SkySevenMC
+PocketMine Auth plugin
+Twitter : @SkySevenMC
